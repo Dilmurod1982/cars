@@ -1,16 +1,34 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      }
-    ]
-  }
-  
+  "cars": [
+    {
+      "id": "41dc",
+      "brand": "Chevrolet",
+      "model": "Cobalt",
+      "engine": "i",
+      "manufactured": "2024-08-08",
+      "horsepower": "85",
+      "price": "12600",
+      "image": "https://car24.uz/wp-content/uploads/2024/01/9.webp"
+    },
+    {
+      "id": "96c2",
+      "brand": "KIA",
+      "model": "K-5",
+      "engine": "V",
+      "manufactured": "2024-08-14",
+      "horsepower": "150",
+      "price": "25000",
+      "image": "https://www.autostrada.uz/wp-content/uploads/2020/09/5eddffb2ec05c4da4800002c.jpg"
+    },
+    {
+      "id": "353f",
+      "brand": "Mersedes",
+      "model": "s600",
+      "engine": "W",
+      "manufactured": "2020-01-11",
+      "horsepower": "350",
+      "price": "90000",
+      "image": "https://www.allcarz.ru/wp-content/uploads/2014/01/foto-s600-w222_03-650x433.jpg"
+    }
+  ]
+}
